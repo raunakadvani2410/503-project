@@ -1,5 +1,5 @@
 # Where is Your Money and Why?
-### Team 4: Austin Barish, Raunak Advani, Jordan Rinaldi, and Victor De Lima
+### Austin Barish, Raunak Advani, Jordan Rinaldi, and Victor De Lima
 
 
 ### NOTE: The best way to view our project is through our website by selecting ./website/index.html. 
